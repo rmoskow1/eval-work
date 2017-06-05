@@ -1,0 +1,5 @@
+https://help.github.com/articles/pushing-to-a-remote/
+
+git push origin master (in the command line)
+allows you to synchronize your remote branches and repos with the local branches on your computer
+you can push from local to remote and pull from one remote branch into another
