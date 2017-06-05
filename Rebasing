@@ -1,0 +1,6 @@
+This is an alternative to merging. Here, instead of creating pull requests and merging, both the feature branch and the master branch are changed. 
+Git finds the base of the feature branch, then takes all the commits from there and replays those commits on the head of the master branch. New commits created on top of the master. 
+The feature branch "label" is moved to the commits placed at the master's head. 
+Note: "master" is always whatever the master "label" is pointing to, plus that commit's parents.
+
+source: https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
