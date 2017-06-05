@@ -1,4 +1,5 @@
 https://git-scm.com/book/id/v2/Git-Branching-Remote-Branches
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
-pointer to the state of branches in the remote repo
-VERY CONFUSED
+pointer to the state of branches in the remote repo. allows you to have local versions of a project in different places
+which can then be merged/push/pulled into the remote repository so that the remote points to the same info as the local.
