@@ -3,15 +3,8 @@ I think of a merge as a combination - but not always an equal combination. (not 
 
 
 Types of merging:
-- the default merge pull request on Github --- here, all commits from the feature branch (the one with the different commits) will be added to the base branch in a commit. 
-- squash merge commits -- all the commits from the pull request are "squashed" into one commit. Squashing would be really - say i commit and then see a bug
-fast forward versus not fast forward -- these are the different types of merges
-
-
-**rebase isn't really a merge. Squash  is a rebase
-
-source:   https://help.github.com/articles/about-merge-methods-on-github/ 
-
-
+- in a typical merge -- there's the base branch and the feature branch. The base branch (or master branch really) has continued since the feature branch was created. We need a merge commit to combine the new commits in the feature branch back to the base branch.
+- fast forward merge -- here, the master branch has not diverged since the feature branch was created! So instead of a new commit, the master will just point to the last commit of the feautre branch. 
+ONLY good source: https://sandofsky.com/images/fast_forward.pdf
 
 question: Is merging always a pull request?
