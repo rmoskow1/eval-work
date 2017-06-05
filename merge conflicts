@@ -1,0 +1,12 @@
+Merging is easy when git knows exactly where to "put" the new commits of the feature branch. Git usually knows how to incorporate the changes. 
+But if both branches diverge within the same file, or one has a file that it edited, while the other branch deleted this file - then git doesn't know what to do.
+So - a merging conflict. github will demand that the conflict be checked - basically asking the user to decide what to do, since git hasn't a clue. 
+
+
+Conflict markers -- github will mark where these differences are:
+<<<<<<<<<<head 
+my version  (Master)
+==============
+the other version  (the branches version)
+>>>>>>>>>>>
+source: http://imagej.net/Git_Conflicts    [this is really good!]
