@@ -1,0 +1,5 @@
+https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history
+
+allows you to edit and choose commits as you rebase
+can use commit, use and reword message, use but stop for amending, use but squash into previous commit,
+do the same but discard log message, or run a command using a shell
