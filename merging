@@ -1,5 +1,7 @@
-Let's see what happens...
-The quick brown fox jumps over the lazy dog.
-Unique New York
-Irish Wristwatch
-The rain in Spain falls mainly in the plain.
+https://git-scm.com/docs/git-merge
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+incorporates changes from the named commit into the current branch
+joins two or more development histories together so that there is a branch containing all the info
+allows you to work on changes outside of the master branch and, when you are satisfied, merge the branches so that 
+the master branch contains the changes made in the other branch
