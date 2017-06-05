@@ -1,0 +1,9 @@
+https://stackoverflow.com/.../what-are-the-differences-between-git-commit-and-git-push
+githowto.com stages 6 and 7
+https://stackoverflow.com/questions/1344908/git-gui-stage-everything
+https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging
+
+staging allows you to decide which files and pieces of code will be included in your next commit.
+you can choose to partially stage parts of files so that the file is only changed partially by the commit.
+Commiting allows you to take changes made in a text editor and saved on your computer and place the locally into your repo.
+Desktop github also allows you to partially commit
