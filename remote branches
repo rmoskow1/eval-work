@@ -1,0 +1,12 @@
+Your work isn't all done on github.com! Actual coding is done on a "remote branch" - you can copy the master to your own computer and branch from there. 
+From your computer, you work on your branch remotely, not actually effecting anything found online. 
+When you're confident in your remote branch, THEN you can push it online - merging the changes you made remotely to the master branch. 
+
+Things to note:
+By definition, the work you do remotely is not accessable to other people - what happens on your computer stays on your computer...that is, until you push it online. 
+We've been using GitHub desktop - anything we do is remote until we create a pull request. This can be approved online or on the app. 
+
+You can think of them as pointers to the current state of the branches in your remote repo. May or may not match 
+source: https://git-scm.com/book/id/v2/Git-Branching-Remote-Branches     -- this source is confusing. We didn't understand everything in it
+
+note: Pinchas and I aren't sure we agree on the definitions
