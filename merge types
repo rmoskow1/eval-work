@@ -1,0 +1,5 @@
+https://ariya.io/2013/09/fast-forward-git-merge
+
+standard: creates a new commit for the merge. used especially when the master has committed after a fork had been made
+fast-forward: when a fork was made but the master had no more commits, the merge can be fast-forwarded by just pointing
+the master at the lastest commit in the branch as opposed to creating a whole new commit
