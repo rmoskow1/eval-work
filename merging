@@ -1,3 +1,17 @@
-We learned about merging
-merging is easy when there are no conflicts - when Github knows exactly where to put the new code. For example, the differences exist on different lines of code
-BUT...the problem is when GitHub doesn't know what to do
+If I'm merging file A to file B (file A is the base) then the selecting commits of file B will go to file A. 
+I think of a merge as a combination - but not always an equal combination. (not neccesarily are all commits of B joing A, or vice versa)
+
+
+Types of merging:
+- the default merge pull request on Github --- here, all commits from the feature branch (the one with the different commits) will be added to the base branch in a commit. 
+- squash merge commits -- all the commits from the pull request are "squashed" into one commit. Squashing would be really - say i commit and then see a bug
+fast forward versus not fast forward -- these are the different types of merges
+
+
+**rebase isn't really a merge. Squash  is a rebase
+
+source:   https://help.github.com/articles/about-merge-methods-on-github/ 
+
+
+
+question: Is merging always a pull request?
