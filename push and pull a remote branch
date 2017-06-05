@@ -1,0 +1,4 @@
+On github deskptop, there's an option to create a pull request for the remote file being worked on. You can request that your file be merged onto the master - pushing.
+There's a "sync" button on GitHub desktop -- this says that whatever the remote branch now contains, the local branch with that name should match. 
+
+again, Pinchas and I aren't sure if we're missing something
