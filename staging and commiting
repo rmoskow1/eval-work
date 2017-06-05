@@ -1,6 +1,9 @@
 a commit in Github is 2 steps - staging and the actual commiting
 sources: https://softwareengineering.stackexchange.com/questions/119782/what-does-stage-mean-in-git
 in staging, Git knows the changes that are about to take place, but no actual change has occured in the repo. When you commit, that's when the actual changes happen in the repo
-staging is an "intermediate" stage
+staging is an "intermediate" stage. Commiting is the final stage - going straight into the repo.
 
-note: partial commits are possible!
+you could say staging is when  you've marked a file to go into your next commit
+source:https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+
+note: partial commits are possible! You could select just one line and choose to commit
