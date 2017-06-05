@@ -1,0 +1,3 @@
+We learned about merging
+merging is easy when there are no conflicts - when Github knows exactly where to put the new code. For example, the differences exist on different lines of code
+BUT...the problem is when GitHub doesn't know what to do
