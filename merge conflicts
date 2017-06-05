@@ -1,0 +1,6 @@
+https://imagej.net/Git_Conflicts#Merge_conflicts
+
+they occur when your current branch and the branch you want to merge into the current branch have diverged. 
+That is, you have commits in your current branch which are not in the other branch, and vice versa.
+your base is the current latest common commit. merge will compare the latest commit from eahc branch after the base and
+resolve all non-conflicting commits. it then marks all the conflicts for you to manually resolve
