@@ -1,0 +1,7 @@
+Slack allows you to easily create and manage message boards for your team. Using instructions beginning with /, you can create
+a channel, add (or remove) users to the channel, rename it, mute it, and delete it.
+Additionally slack allows you to connect to a timer (such as toggl), set reminders for yourself, you custom emojis all using commands.
+This is a useful website for the slash-commands: https://get.slack.help/hc/en-us/articles/201259356-Slash-commands
+
+One of the more important commands is /keys (or /shortcuts) which shows you all the shortcuts you can use with your keys
+to further make Slack easier to use.
