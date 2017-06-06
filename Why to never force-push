@@ -1,0 +1,8 @@
+Force pushing is a "highly dangerous and unclean solution" -- basically, it's a way to remove a commit from the repo, so that no one will be able to see it. 
+You filter out the file you want to remove - then you force push it,  totally removing the history of that commit.
+Source:https://blog.sensible.io/2012/10/09/git-to-force-put-or-not-to-force-push.html  [explains sorta what is it - but not why it's bad]
+
+Normally, if your local branch is missing some of the changes that the remote branch has, you cannot push your branch. You first pull the data from the remote onto yours (update your branch) and ONLY then can you push your branch. OR you can rebase then push. 
+Force pushing overrides that - you can push your local branch even though it's missing changes from the remote. 
+The problem is - if you try and force push a branch you're working on, but someone else is working on that branch locally, then once you've force pushed, the other person may not be able to push their own changes later.
+http://willi.am/blog/2014/08/12/the-dark-side-of-the-force-push/ [explains why it's bad - and how you could hypothetically force push safely]
