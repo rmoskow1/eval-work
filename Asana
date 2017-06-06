@@ -1,0 +1,98 @@
+Everybody within your company is in the Asana - it's a means of communicating work amonst your team. 
+
+Tasks:
+- you add tasks by the little orange "+" sign on the top - tasks can be assigned to specific people or not. You can also create subtasks 
+within the tasks, and check off subtasks as you go. 
+- you can organize tasks into PROJECTS - tasks related to a specific initiative or goal (existing projects
+are listed on the sidebar -- you can use the dropdown to see who's in them, and join a project by clicking the plus sign 
+on that project name)
+- you can start your own project using the plus sign on top (same button for starting a task).
+- you can drag and drop tasks into your project - you can also add due dates and project members
+- you can add followers to tasks, comment on tasks, @mention people in tasks
+- you can add the same tasks to multiple projects, so that everyone can see the progress
+- you can mark a task as waiting on another task (this way - if the one you're waiting for is finished, you'll
+get a notification that you can start yours)
+
+inbox - will have notifications about projects for you - a little orange dot tells you there are new messages
+there's an asana chrome extension available
+you can use the "progress" button to show how a project is going
+there's a calendar you can use for each project, and a "files" button to attach appropriate files for the project
+Other apps:
+- Slack - you can use this to post updates to your Slack channel when there are changes in the Asana workplace
+
+There are keyboard shortcuts:
+APPLICATION
+Tab+Q	Quick Add Task
+Tab+W	Quick Add Conversation
+Tab+/	Search for a project, tag, person, or task
+Ctrl+/	
+Show Keyboard Shortcuts
+
+TASK LIST
+↵	Create New Task
+:	
+Create a section by adding a colon at the end of a task name
+
+Tab+BKSP	
+Delete Selected Task(s)
+(or: backspace when task name is empty)
+Ctrl+↵	
+Complete Selected Task(s)
+
+Tab+M	Assign to Me
+Tab+H	♥ Selected Task
+Tab+Y	Mark as Today
+Tab+U	Mark as Upcoming
+Tab+L	
+Mark as Later
+
+ESC	Close Task Pane
+Tab	
+Open Task Pane
+
+↑/↓	Change Selection
+Ctrl+Shift+↑ / Ctrl+Shift+↓	
+Jump Up/Down to the next section
+
+Ctrl+↑ / Ctrl+↓	Move Up/Down
+Ctrl+Click	Multi-select Individual Task
+Shift+↑ / Shift+↓	Select Range
+Shift+Click	
+Select Range
+
+Ctrl+C	Copy Multi-Selected Tasks
+Ctrl+V	
+Paste Tasks (One per line)
+
+TASK PANE
+Tab+C	Jump to Comment Field
+Tab+A	Assign Selected Task
+Tab+D	Set Due Date
+Tab+F	Add Follower
+Tab+P	Add Project
+Tab+T	Add Tag
+Tab+S	Focus Subtasks
+Tab+↵	Jump to the task list
+Tab+X	
+Full Screen Task Pane
+
+TEXT FORMATTING
+Ctrl+B	Bold
+Ctrl+I	Italics
+Ctrl+U	Underline
+Ctrl+Shift+M	Monospace
+Ctrl+Shift+7	Numbered List
+Ctrl+Shift+8	Bulleted List
+Ctrl+]	Increase List Indent
+Ctrl+[	
+Decrease List Indent
+
+INBOX
+H	Show Archive
+S	Show Inbox
+F	Follow or Unfollow
+I	Archive
+U	Move to Inbox
+
+
+intro: https://asana.com/guide/get-started/begin/quick-start?utm_source=asana&utm_medium=inproduct&utm_campaign=helpmenu-invites
