@@ -1,0 +1,2 @@
+make: when you need to work on a new feature of a project that is unique to the other branches you have
+merge: when that aspect is completed to the point that it is ready to go back into the master branch
