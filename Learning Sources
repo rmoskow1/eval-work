@@ -31,12 +31,25 @@ https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-hist
 Pushing/Pulling with remote branch:
 https://help.github.com/articles/pushing-to-a-remote/
 
+Git log:
+https://mijingo.com/blog/understanding-git-log
+
 Force -pushing
 https://blog.sensible.io/2012/10/09/git-to-force-put-or-not-to-force-push.html  [explains sorta what is it - but not why it's bad]
 http://willi.am/blog/2014/08/12/the-dark-side-of-the-force-push/ [explains why it's bad - and how you could hypothetically force push safely]
+https://stackoverflow.com/questions/10510462/force-git-push-to-overwrite-remote-files
+https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push
 
 Commit messages:
 https://github.com/erlang/otp/wiki/Writing-good-commit-messages [gives a really good basic format, plus tips for best messages]
+https://chris.beams.io/posts/git-commit/
+
+New branch:
+https://www.atlassian.com/git/tutorials/using-branches
 
 Go Back to a previous commit:
 https://www.atlassian.com/git/tutorials/undoing-changes
+https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit
+
+difference between commits:
+https://stackoverflow.com/questions/1191282/how-to-see-the-changes-between-two-commits-without-commits-in-between
