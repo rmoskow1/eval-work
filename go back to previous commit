@@ -4,5 +4,6 @@ source: https://www.atlassian.com/git/tutorials/undoing-changes
 
 If you want to actually make changes, you could make a branch while you're there:
 git checkout -b branch-name <commit>
+*note: to make a new branch and switch to it, you can do "git checkout -b branch-name" for shorthand. 
 
 git revert will make changes as well, "undoing" previous commits that you made. 
