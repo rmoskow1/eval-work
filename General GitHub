@@ -1,0 +1,10 @@
+GitHub is a tool for collaborative coding. It's a way of giving teammates access to your own work, and giving you access to there's. 
+There's a "master branch" - final products of your work. When code is in the master branch, the assumption is that everyone knows and approves
+of this code - and can feel confident working off of it. And of course, there's lots of other branches that diverge from the master branch. 
+
+People work locally (on their own computers) by fetching from branches online, or starting a new one. Locally, changes/edits can be made. 
+Then, when confident in your code, you can push from the local branch to the remote branch (put your own local work online). Teammates can review it from there-
+if you want it in the master branch, you can make a pull request -- a request saying, I want the additions that I made in my branch to be added to the master branch. 
+
+Github is a great system of checks and balances -- changes you make locally won't have any effect until you push them remotely...and your branches can't be merged to the master
+until the pull request is apporved. If conflicts exist when you try to merge branches, git forces you to take a look at them yourself, and resolve conflicts. 
