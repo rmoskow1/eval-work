@@ -1,0 +1,11 @@
+git diff <commit-name>^..<commit-name> : shows the differnces between 2 commits (i.e. all the differences that have occured between one snapshot in time and another)
+source: https://stackoverflow.com/questions/3368590/show-diff-between-commits
+
+
+Supposedly this lets you see the differnces between 2 commits without the commits between.
+you can simply pass the 2 commits to git diff like :
+
+-> git diff 0da94be  59ff30c > my.patch
+-> git apply my.patch
+
+Pinchas and I are still a little confused on this.
