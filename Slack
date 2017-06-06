@@ -6,4 +6,6 @@ This is a useful website for the slash-commands: https://get.slack.help/hc/en-us
 One of the more important commands is /keys (or /shortcuts) which shows you all the shortcuts you can use with your keys
 to further make Slack easier to use.
 
-You can also make video calls using slack
+You can make video calls using slack
+
+You can also have outside extensions connect to slack such as asana or cheetah (timer)
