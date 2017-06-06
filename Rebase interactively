@@ -1,0 +1,7 @@
+You can take a series of commits and squash them down into a single commit with the interactive rebasing tool. This is a way of editing your commit history. 
+On the command line - "squash" means use this commit and the previous one - but all as one commit.
+git rebase -i [parent of the last commit]
+Source: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History [explains the concept of rebasing and how to do it in the command line]
+
+Github desktop may not actually support interactive rebasing. That needs to be done from the command line..
+Source:http://randycoulman.com/blog/2016/11/01/github-desktop/ 
