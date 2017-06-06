@@ -4,3 +4,4 @@ instead of merging one branch into another, you essentially merge both branches 
 non-master branch to be pointing to the final commit of the master branch. The master then does a fast-forward merge 
 with the other branch and in doing so points to the whole chain of commits. essentially merges both files and makes one
 long combined commit history
+This new copy ofthe history are all new commits.
