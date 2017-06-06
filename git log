@@ -1,0 +1,9 @@
+https://mijingo.com/blog/understanding-git-log
+
+Git logs allow you to review and read a history of everything that happens to a repository.
+A Git log is a running record of commits. A full log has the following pieces:
+
+A commit hash (SHA1 40 character checksum of the commits contents). Because it is generated based on the commit contents it is unique.
+Commit Author metadata: The name and email address of the author of the commit.
+Commit Date metadata: A date timestamp for the time of the commit
+Commit title/message: The overview of the commit as written in the commit message.
