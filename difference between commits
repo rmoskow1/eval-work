@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/1191282/how-to-see-the-changes-between-two-commits-without-commits-in-between
+
+-> git diff <hash1>  <hash2> > my.patch
+-> git apply my.patch
+
+excludes commits in between
