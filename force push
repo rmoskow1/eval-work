@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/10510462/force-git-push-to-overwrite-remote-files
+https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push
+
+force push allows you to push from the local without regard for changes in the remote 
+as the thing you're pushing will override the remote repo receiving the push.
+this effectively changes the history and makeup of the remote repo to 
+perfectly mimic your local repo even if the two had diverged.
+this however is dangerous in a shared repo because someone may have pulled from the remote repo before you force pushed, 
+changing the history, and may therefore be working with improper data, leading to problems in their work and error when they 
+try to push.
