@@ -1,0 +1,8 @@
+git checkout <commit>  -- this checks out the particular commit. Checkout is READ ONLY - no actual changes. 
+But you do make changes if you do git checkout <commit> <file>  : this can change the file back to the previous state, the state of the commit.
+source: https://www.atlassian.com/git/tutorials/undoing-changes
+
+If you want to actually make changes, you could make a branch while you're there:
+git checkout -b branch-name <commit>
+
+git revert will make changes as well, "undoing" previous commits that you made. 
