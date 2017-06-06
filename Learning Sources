@@ -1,0 +1,15 @@
+Staging and Commiting:
+https://softwareengineering.stackexchange.com/questions/119782/what-does-stage-mean-in-git
+https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+
+Remote Branches:
+https://git-scm.com/book/id/v2/Git-Branching-Remote-Branches
+
+Types of Merges:
+https://sandofsky.com/images/fast_forward.pdf   [literally the only source that explained well]
+
+Merge Conflicts:
+http://imagej.net/Git_Conflicts     [really helpful!] 
+
+Rebasing:
+https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
