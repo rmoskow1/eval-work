@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit
+
+checkout command. can make a new branch while there with -b
+if you want to go back a remove everything you did after that commit can use the reset command (if unpublished)
+revert if published
